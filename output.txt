@@ -1,0 +1,303 @@
+11:22:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+11:23:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+11:24:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+11:25:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 55.00% zapis
+11:26:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 49.00% zapis
+11:27:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+11:28:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% zapis
+11:29:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+11:30:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+11:31:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% zapis
+11:32:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% zapis
+11:33:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% zapis
+11:34:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% zapis
+11:35:1 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% zapis
+11:36:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% zapis
+11:37:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:38:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:39:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:40:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:41:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:42:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:43:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:44:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% zapis
+11:45:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:46:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:47:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:48:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:49:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:50:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:51:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:53:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:54:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:55:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:56:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:57:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:58:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+11:59:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:0:1 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:1:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:2:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:3:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:4:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:5:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:6:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:7:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:8:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% zapis
+12:9:0 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 44.00% zapis
+12:10:0 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 44.00% zapis
+12:11:0 Mon 29/3/2021  Temperatura: 20.00 st.C  Wilgotność: 46.00% zapis
+12:12:0 Mon 29/3/2021  Temperatura: 20.00 st.C  Wilgotność: 46.00% zapis
+12:13:0 Mon 29/3/2021  Temperatura: 20.00 st.C  Wilgotność: 47.00% zapis
+12:14:0 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 46.00% zapis
+12:15:0 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 47.00% zapis
+12:16:0 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 47.00% zapis
+12:17:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:18:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:19:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:20:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:21:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:22:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:23:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:24:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:25:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% zapis
+12:26:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:27:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:28:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:29:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:30:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:31:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:32:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:33:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:34:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:35:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:36:0 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% zapis
+12:37:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:38:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:39:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:40:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:41:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:42:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:43:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:44:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:45:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:46:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:47:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:48:2 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:49:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:50:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:51:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:52:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:53:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:54:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:55:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:56:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:57:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:58:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+12:59:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:0:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:1:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:2:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:3:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:4:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:5:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:6:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:7:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:8:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:9:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:10:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:11:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:12:1 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:13:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:14:0 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:16:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:17:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:18:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:19:01 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:20:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:21:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:22:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:23:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:24:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:25:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:26:01 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:27:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:28:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:29:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% zapis
+13:30:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 15 zapis
+13:31:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 281 zapis
+13:32:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 17 zapis
+13:33:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 16 zapis
+13:35:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:36:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:37:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:38:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:39:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:40:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:41:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:42:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:43:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:44:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:45:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:46:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:47:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:48:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:49:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 019 zapis
+13:50:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+13:51:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:52:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:53:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:54:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+13:55:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:56:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:57:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:58:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+13:59:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:00:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:01:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:02:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:03:00 Mon 29/3/2021  Temperatura: 23.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:04:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:05:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:06:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:07:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:08:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:09:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:10:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:11:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:12:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:13:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:14:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 017 zapis
+14:15:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:16:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:17:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:18:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:19:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 017 zapis
+14:20:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:21:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:22:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:23:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:24:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:25:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 017 zapis
+14:26:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:27:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 017 zapis
+14:28:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 017 zapis
+14:29:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+14:30:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:31:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 017 zapis
+14:32:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 017 zapis
+14:33:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:34:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:35:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 018 zapis
+14:36:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 017 zapis
+14:37:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+14:38:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 017 zapis
+14:39:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 018 zapis
+14:40:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 49.00% Poziom wody: 017 zapis
+14:41:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 50.00% Poziom wody: 018 zapis
+14:42:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 51.00% Poziom wody: 017 zapis
+14:43:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 51.00% Poziom wody: 018 zapis
+14:44:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 52.00% Poziom wody: 018 zapis
+14:45:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 53.00% Poziom wody: 018 zapis
+14:46:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 53.00% Poziom wody: 018 zapis
+14:47:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 54.00% Poziom wody: 017 zapis
+14:48:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 54.00% Poziom wody: 018 zapis
+14:49:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 55.00% Poziom wody: 017 zapis
+14:50:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 56.00% Poziom wody: 017 zapis
+14:51:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 58.00% Poziom wody: 018 zapis
+14:52:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 58.00% Poziom wody: 018 zapis
+14:53:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 58.00% Poziom wody: 017 zapis
+14:54:00 Mon 29/3/2021  Temperatura: 21.00 st.C  Wilgotność: 58.00% Poziom wody: 018 zapis
+14:55:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 58.00% Poziom wody: 018 zapis
+14:56:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 57.00% Poziom wody: 018 zapis
+14:57:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 55.00% Poziom wody: 018 zapis
+14:58:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 54.00% Poziom wody: 018 zapis
+14:59:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 54.00% Poziom wody: 018 zapis
+15:00:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 53.00% Poziom wody: 018 zapis
+15:01:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 53.00% Poziom wody: 018 zapis
+15:02:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 53.00% Poziom wody: 018 zapis
+15:03:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 52.00% Poziom wody: 018 zapis
+15:04:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 52.00% Poziom wody: 018 zapis
+15:05:02 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 52.00% Poziom wody: 018 zapis
+15:06:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 51.00% Poziom wody: 018 zapis
+15:07:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 51.00% Poziom wody: 018 zapis
+15:08:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 019 zapis
+15:09:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 018 zapis
+15:10:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 354 zapis
+15:11:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 016 zapis
+15:12:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:13:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:14:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:15:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:16:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:17:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:18:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 016 zapis
+15:19:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 016 zapis
+15:20:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 50.00% Poziom wody: 016 zapis
+15:21:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:22:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:23:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:24:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:25:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:26:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:27:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 017 zapis
+15:28:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:29:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 49.00% Poziom wody: 016 zapis
+15:30:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:31:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:32:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:33:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:34:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:35:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:36:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:37:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:38:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:39:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 48.00% Poziom wody: 016 zapis
+15:40:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:41:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:42:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:43:01 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:44:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:45:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:46:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:47:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 016 zapis
+15:48:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 016 zapis
+15:49:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 016 zapis
+15:50:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 016 zapis
+15:51:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 016 zapis
+15:52:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 016 zapis
+15:53:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 019 zapis
+15:54:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 47.00% Poziom wody: 019 zapis
+15:55:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+15:56:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 019 zapis
+15:57:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 019 zapis
+15:58:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 019 zapis
+15:59:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 019 zapis
+16:00:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 019 zapis
+16:01:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 018 zapis
+16:02:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 019 zapis
+16:03:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 021 zapis
+16:04:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 021 zapis
+16:05:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 020 zapis
+16:06:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 020 zapis
+16:07:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 021 zapis
+16:08:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 46.00% Poziom wody: 021 zapis
+16:09:01 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 021 zapis
+16:10:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 021 zapis
+16:11:01 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 021 zapis
+16:12:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:13:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:14:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 021 zapis
+16:15:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:16:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:17:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:18:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:19:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:20:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:21:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 021 zapis
+16:22:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:23:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:24:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% Poziom wody: 021 zapis
+16:25:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% Poziom wody: 020 zapis
+16:26:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 45.00% Poziom wody: 020 zapis
+16:27:00 Mon 29/3/2021  Temperatura: 22.00 st.C  Wilgotność: 44.00% Poziom wody: 020 zapis
